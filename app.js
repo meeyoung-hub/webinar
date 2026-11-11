@@ -8,7 +8,7 @@
 // 여기에 Google Apps Script 배포 후 생성된 "웹 앱 URL"을 입력하세요.
 // 예: "https://script.google.com/macros/s/AKfycbx.../exec"
 // ==============================================================================
-const DEFAULT_SCRIPT_URL = "";
+const DEFAULT_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzm6_PicI5lXOGp56jcZx2u5OjRE85jxniZymNSV6OjC7cmckU8pSSu71hPbSfIg8Cn6g/exec";
 
 // 로컬 스토리지에 저장된 사용자 커스텀 URL이 있으면 우선 사용
 function getScriptUrl() {
